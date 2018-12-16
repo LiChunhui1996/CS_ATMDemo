@@ -1,0 +1,15 @@
+C:\Users\Rollhoop\Desktop\C#High\Practice_2_ATM\Practice_2_ATM\bin\Debug\Practice_2_ATM.exe.config
+C:\Users\Rollhoop\Desktop\C#High\Practice_2_ATM\Practice_2_ATM\bin\Debug\Practice_2_ATM.exe
+C:\Users\Rollhoop\Desktop\C#High\Practice_2_ATM\Practice_2_ATM\bin\Debug\Practice_2_ATM.pdb
+C:\Users\Rollhoop\Desktop\C#High\Practice_2_ATM\Practice_2_ATM\obj\Debug\Practice_2_ATM.csprojAssemblyReference.cache
+C:\Users\Rollhoop\Desktop\C#High\Practice_2_ATM\Practice_2_ATM\obj\Debug\Practice_2_ATM.Form1.resources
+C:\Users\Rollhoop\Desktop\C#High\Practice_2_ATM\Practice_2_ATM\obj\Debug\Practice_2_ATM.Properties.Resources.resources
+C:\Users\Rollhoop\Desktop\C#High\Practice_2_ATM\Practice_2_ATM\obj\Debug\Practice_2_ATM.csproj.GenerateResource.cache
+C:\Users\Rollhoop\Desktop\C#High\Practice_2_ATM\Practice_2_ATM\obj\Debug\Practice_2_ATM.csproj.CoreCompileInputs.cache
+C:\Users\Rollhoop\Desktop\C#High\Practice_2_ATM\Practice_2_ATM\obj\Debug\Practice_2_ATM.exe
+C:\Users\Rollhoop\Desktop\C#High\Practice_2_ATM\Practice_2_ATM\obj\Debug\Practice_2_ATM.pdb
+C:\Users\Rollhoop\Desktop\C#High\Practice_2_ATM\Practice_2_ATM\bin\Debug\Google.Protobuf.dll
+C:\Users\Rollhoop\Desktop\C#High\Practice_2_ATM\Practice_2_ATM\bin\Debug\MySql.Data.dll
+C:\Users\Rollhoop\Desktop\C#High\Practice_2_ATM\Practice_2_ATM\bin\Debug\Google.Protobuf.xml
+C:\Users\Rollhoop\Desktop\C#High\Practice_2_ATM\Practice_2_ATM\bin\Debug\MySql.Data.xml
+C:\Users\Rollhoop\Desktop\C#High\Practice_2_ATM\Practice_2_ATM\obj\Debug\Practice_2_ATM.csproj.CopyComplete
